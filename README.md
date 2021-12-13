@@ -7,7 +7,7 @@ To try to prevent the hacker from seeing legitimate wallet recovery keys from gu
 
 Designed to work with the specific website I keep seeing, but can probably be modified to work with other similar scams.
 
-To use, clone the repository and run `req.py` with python (`python req.py`)
+To use, clone the repository and run `req.py` with Python (`python req.py`)
 
 When doing this, make sure to also:
 * [Report the URL to Google](https://safebrowsing.google.com/safebrowsing/report_phish/) to warn Chrome / Chromium-based browser users that the site is illegitimate
